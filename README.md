@@ -1,6 +1,6 @@
 # 🚀 Ankit Kumar — Personal Portfolio Website
 
-[![Live Portfolio](https://img.shields.io/badge/Portfolio-Live-00e5ff?style=flat-square&logo=google-chrome&logoColor=black)](https://your-portfolio-url.com)
+[![Live Portfolio](https://img.shields.io/badge/Portfolio-Live-00e5ff?style=flat-square&logo=google-chrome&logoColor=black)](https://akr1701.github.io/Portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ankitkumar-084941220)
 [![Email](https://img.shields.io/badge/Email-akr200101%40gmail.com-7c3aed?style=flat-square&logo=gmail&logoColor=white)](mailto:akr200101@gmail.com)
 
@@ -60,25 +60,6 @@ portfolio/
 
 ---
 
-## 🚀 Getting Started
-
-### View locally
-
-```bash
-# Clone the repo
-git clone https://github.com/your-username/portfolio.git
-
-# Open in browser
-cd portfolio
-open index.html      # macOS
-start index.html     # Windows
-xdg-open index.html  # Linux
-```
-
-No server needed — just open `index.html` in any modern browser.
-
----
-
 ## 🌐 Deployment
 
 You can host this portfolio for free on any of these platforms:
@@ -87,7 +68,7 @@ You can host this portfolio for free on any of these platforms:
 1. Push code to a GitHub repo
 2. Go to **Settings → Pages**
 3. Set source to `main` branch → `/ (root)`
-4. Your site will be live at `https://your-username.github.io/portfolio`
+4. Your site is live at `https://akr1701.github.io/Portfolio/`
 
 **Netlify / Vercel**
 1. Drag and drop the `index.html` file onto [netlify.com/drop](https://app.netlify.com/drop)
