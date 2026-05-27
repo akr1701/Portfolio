@@ -4,6 +4,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/ankitkumar-084941220)
 [![Email](https://img.shields.io/badge/Email-akr200101%40gmail.com-7c3aed?style=flat-square&logo=gmail&logoColor=white)](mailto:akr200101@gmail.com)
 
+### 🌐 Live Site → [akr1701.github.io/Portfolio](https://akr1701.github.io/Portfolio/)
+
 A sleek, dark-themed personal portfolio website built with pure **HTML, CSS & JavaScript** — no frameworks, no build tools, just clean code.
 
 ---
